@@ -1,0 +1,7 @@
+11/08/2021
+- Create first service "admin" using Django.
+- Connect Django app with Docker
+
+
+TODO
+- Connect django app with DB
